@@ -10,7 +10,7 @@ body{
     font-weight: bold;
     text-align: center;
     margin: 40px 0 60px 0;
-    background-color: #d3d3d8;
+    background-color: #333336;
 }
 h1{
     color: rgb(166, 166, 168);
@@ -104,7 +104,7 @@ form{
         justify-content: center;
     }
     #search-input{
-        width: 40%;
+        width: 50%;
     }
     #search-button{
         font-size: 12px;
